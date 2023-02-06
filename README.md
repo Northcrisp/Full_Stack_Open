@@ -1,2 +1,2 @@
-# Full_Stack_Open
+# Full Stack Open
 University of Helsinki Course
